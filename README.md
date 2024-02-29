@@ -1,4 +1,4 @@
-## [Demo](https://golds-fitness-junction.netlify.app/)
+## Click here for demo.[Demo](https://golds-fitness-junction.netlify.app/)
 
 # Getting Started with Create React App
 
